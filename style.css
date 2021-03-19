@@ -1,0 +1,37 @@
+*{
+  margin: 10px;
+  padding: 1opx;
+  box-sizing: border-box;
+background-color: #ffe6a3;
+}
+
+.color{
+  color: #fa106a;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+div {
+
+  font-weight: bold;
+
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+#division {
+
+  font-weight: bold;
+
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+#btn {
+
+  font-weight: bold;
+  font-size: 30px;
+
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
